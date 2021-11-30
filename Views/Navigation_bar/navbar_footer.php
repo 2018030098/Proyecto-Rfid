@@ -33,28 +33,12 @@
     <script src="Resources/JS/jquery-3.1.1.min.js"></script>
     <script src="Resources/JS/popper.min.js"></script>
     <script src="Resources/JS/bootstrap.min.js"></script>
-    <script src="Resources/JS/plugins/metisMenu/jquery.metisMenu.js"></script>
-    <script src="Resources/JS/plugins/slimscroll/jquery.slimscroll.min.js"></script>
     <script src="https://kit.fontawesome.com/6aa6c40f89.js" crossorigin="anonymous"></script>
 
     <!-- Custom and plugin javascript -->
     <script src="Resources/JS/inspinia.js"></script>
     <script src="Resources/JS/plugins/pace/pace.min.js"></script>
     <script src="Resources/JS/toast-message.js"></script>
-
-    <!-- Sparkline -->
-    <script src="Resources/JS/plugins/sparkline/jquery.sparkline.min.js"></script>
-
-    <!-- Flot -->
-    <script src="Resources/JS/plugins/flot/jquery.flot.js"></script>
-    <script src="Resources/JS/plugins/flot/jquery.flot.tooltip.min.js"></script>
-    <script src="Resources/JS/plugins/flot/jquery.flot.resize.js"></script>
-
-    <!-- ChartJS-->
-    <script src="Resources/JS/plugins/chartJs/Chart.min.js"></script>
-
-    <!-- Peity -->
-    <script src="Resources/JS/plugins/peity/jquery.peity.min.js"></script>
 
 </body>
 </html>

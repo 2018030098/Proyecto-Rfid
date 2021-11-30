@@ -5,7 +5,7 @@ function toastmessage() {
     mytoast.classList.add('fadeInRight');
     setTimeout(function () {
         mytoast.classList.remove('d-none');
-    },)
+    },1000)
 
     setTimeout(function (){
         removeToast()
@@ -17,7 +17,7 @@ function removeToast() {
     mytoast.classList.add('fadeOutRight');
     setTimeout(function () {
         mytoast.classList.add('d-none');
-    },)
+    },1000)
 }
 
 function closeToast() {

@@ -22,9 +22,6 @@
     <link href="Resources/CSS/animate.css" rel="stylesheet">
     <link href="Resources/CSS/style.css" rel="stylesheet">
 
-    <!-- Toastr style -->
-    <link href="Resources/CSS/plugins/toastr/toastr.min.css" rel="stylesheet">
-
 </head>
 
 <body class="top-navigation" <?php if (isset($message)) {   ?> onload="toastmessage()" <?php    } ?>>
