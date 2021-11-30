@@ -16,7 +16,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>INSPINIA | Dashboard v.4</title>
+    <title>Proyecto Rfid</title>
 
     <link href="Resources/CSS/bootstrap.min.css" rel="stylesheet">
     <link href="Resources/CSS/animate.css" rel="stylesheet">

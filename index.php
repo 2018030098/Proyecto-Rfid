@@ -19,7 +19,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>INSPINIA | Login</title>
+    <title>Proyecto Rfid</title>
 
     <link href="Views/Resources/CSS/bootstrap.min.css" rel="stylesheet">
     <link href="Views/Resources/CSS/font-awesome.css" rel="stylesheet">
