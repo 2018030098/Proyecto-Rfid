@@ -38,6 +38,7 @@
     <!-- Custom and plugin javascript -->
     <script src="Resources/JS/inspinia.js"></script>
     <script src="Resources/JS/plugins/pace/pace.min.js"></script>
+    <script src="Resources/JS/pace.min.js"></script>
     <script src="Resources/JS/toast-message.js"></script>
 
 </body>

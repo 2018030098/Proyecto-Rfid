@@ -1,14 +1,14 @@
 <?php
     require('back/Controllers/LoginController.php');
+    if (isset($_POST['user']) && isset($_POST['password'])) {
+        $message = LoginController::login($_POST['user'],$_POST['password']);
+    }
     $session = LoginController::validation();
     
     if ($session == 0) {
         LoginController::redirect();
     }
 
-    if (isset($_POST['user']) && isset($_POST['password'])) {
-        $message = LoginController::login($_POST['user'],$_POST['password']);
-    }
 ?>
 
 <!DOCTYPE html>
